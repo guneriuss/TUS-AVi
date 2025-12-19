@@ -1,3 +1,16 @@
+<div align="center">
+
+# 🎮 TUŞ AVI
+
+### Türkçe Q klavye düzenini öğrenmek için eğlenceli bir oyun!
+
+<br>
+
+## 🕹️ OYUNU OYNA
+
+[![OYNA](https://img.shields.io/badge/OYUNU_OYNA-00ADB5?style=for-the-badge&logo=gamepad&logoColor=white)](https://guneriuss.github.io/TUS-AVi/)
+
+</div>
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
