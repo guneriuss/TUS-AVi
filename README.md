@@ -2,15 +2,16 @@
 
 # 🎮 TUŞ AVI
 
-### Türkçe Q klavye düzenini öğrenmek için eğlenceli bir oyun!
+### A fun game to learn the Turkish Q keyboard layout!
 
 <br>
 
-## 🕹️ OYUNU OYNA
+## 🕹️ PLAY THE GAME
 
-[![OYNA](https://img.shields.io/badge/OYUNU_OYNA-00ADB5?style=for-the-badge&logo=gamepad&logoColor=white)](https://guneriuss.github.io/TUS-AVi/)
+[![PLAY](https://img.shields.io/badge/PLAY_NOW-00ADB5?style=for-the-badge&logo=gamepad&logoColor=white)](https://guneriuss.github.io/TUS-AVi/)
 
 </div>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
